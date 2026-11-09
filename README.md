@@ -69,3 +69,6 @@ Project Structure
 - Doctor scheduling and appointment booking
 - Graphical interface and role-based login
 
+   👥 Team
+   -  [@marysjid199-lab](https://github.com/marysjid199-lab)
+   -  [@ramishaasif-09](https://github.com/ramishaasif-09)
