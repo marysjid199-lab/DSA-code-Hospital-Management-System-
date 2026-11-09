@@ -1,0 +1,125 @@
+=== HOSPITAL PATIENT DATABASE ===
+Total Patients: 4
+Generated on: Mon Nov 09 17:02:00 2026
+=================================
+
+Patient #1 of 4
+=== PATIENT RECORD ===
+ID: 1001
+Name: Maryam
+Age: 20
+Gender: f
+Contact: 03416857199
+Blood Group: b+
+Allergies: yes
+Chronic Conditions: 9
+Current Severity: 9/10
+Department: Emergency
+Registration Date: Sun Nov 01 18:52:53 2026
+Admission Status: ADMITTED
+Bed Number: 1001
+=== END PATIENT ===
+SERVICE HISTORY (1 visits)
+--- SERVICE RECORD ---
+Service Type: emergency
+Diagnosis: fever with alergy
+Medication: anti alergy
+Doctor: DR.Qudsi
+Service Date: Sun Nov 01 18:59:30 2026
+Cost: $1200
+Severity: 9/10
+Admitted: Yes
+Bed Number: 1001
+--- END SERVICE ---
+
+
+Patient #2 of 4
+=== PATIENT RECORD ===
+ID: 1002
+Name: Ayesha
+Age: 22
+Gender: F
+Contact: 03916532481
+Blood Group: B+
+Allergies: no
+Chronic Conditions: no
+Current Severity: 6/10
+Department: Dermatology
+Registration Date: Mon Nov 09 01:30:31 2026
+Admission Status: NOT ADMITTED
+Bed Number: -1
+=== END PATIENT ===
+SERVICE HISTORY (1 visits)
+--- SERVICE RECORD ---
+Service Type: Checkup
+Diagnosis: Acene
+Medication: Herbal Face wash , cream 
+Doctor: Dr.Rimsha
+Service Date: Mon Nov 09 01:31:35 2026
+Cost: $2000
+Severity: 6/10
+Admitted: No
+Bed Number: -1
+--- END SERVICE ---
+
+
+Patient #3 of 4
+=== PATIENT RECORD ===
+ID: 1003
+Name: Azra
+Age: 35
+Gender: f
+Contact: 0983451764
+Blood Group: A+
+Allergies: no
+Chronic Conditions: no
+Current Severity: 3/10
+Department: Dermatology
+Registration Date: Mon Nov 09 16:11:51 2026
+Admission Status: NOT ADMITTED
+Bed Number: -1
+=== END PATIENT ===
+SERVICE HISTORY (1 visits)
+--- SERVICE RECORD ---
+Service Type: Checkup
+Diagnosis: regular checkup
+Medication: change in medicines
+Doctor: Dr. Zarwa
+Service Date: Mon Nov 09 16:12:48 2026
+Cost: $2500
+Severity: 3/10
+Admitted: No
+Bed Number: -1
+--- END SERVICE ---
+
+
+Patient #4 of 4
+=== PATIENT RECORD ===
+ID: 1004
+Name: Ali
+Age: 34
+Gender: M
+Contact: 03006557895
+Blood Group: O_
+Allergies: no
+Chronic Conditions: no
+Current Severity: 5/10
+Department: Cardiology
+Registration Date: Mon Nov 09 17:00:45 2026
+Admission Status: NOT ADMITTED
+Bed Number: -1
+=== END PATIENT ===
+SERVICE HISTORY (1 visits)
+--- SERVICE RECORD ---
+Service Type: Checkup
+Diagnosis: rutine checkup
+Medication: take medicine regularly and do walk
+Doctor: Dr. Zakk
+Service Date: Mon Nov 09 17:01:29 2026
+Cost: $3000
+Severity: 5/10
+Admitted: No
+Bed Number: -1
+--- END SERVICE ---
+
+=== END OF DATABASE ===
